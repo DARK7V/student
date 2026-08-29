@@ -1,6 +1,6 @@
 {
-  "version": "1.4.0",
+  "version": "1.5.0",
   "update_url": "https://raw.githubusercontent.com/DARK7V/student/main/update.zip",
-  "changelog": "🎉 تحديث v1.4.0: واجهة مستخدم نظيفة وإخفاء المسارات الخاصة وحماية روابط السيرفر",
+  "changelog": "🎉 تحديث v1.5.0: شاشة بداية ذكية وتطبيق التحديثات فوراً قبل ظهور الواجهة",
   "release_date": "2026-08-29"
 }
