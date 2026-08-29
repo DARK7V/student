@@ -1,6 +1,6 @@
 {
   "version": "1.1.0",
-  "update_url": "https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_REPO/main/updates/update.zip",
-  "changelog": "🎉 تحديث v1.1.0: إضافة كلمات جديدة للمكتبة وتحسينات شاملة في سرعة التسميع ونطق الكلمات!",
+  "update_url": "https://raw.githubusercontent.com/DARK7V/student/main/updates/update.zip",
+  "changelog": "تحديث v1.1.0: تمت اضافة 10 كلمات جديدة (brilliant, challenge, curious, determine, efficient, flexible, grateful, humble, inspire, journey)",
   "release_date": "2026-08-29"
 }
