@@ -1,6 +1,6 @@
 {
-  "version": "1.2.0",
-  "update_url": "https://raw.githubusercontent.com/DARK7V/student/main/updates/update.zip",
-  "changelog": "تحديث v1.2.0: تمت اضافة كلمة if - لو / إذا",
+  "version": "1.3.0",
+  "update_url": "https://raw.githubusercontent.com/DARK7V/student/main/update.zip",
+  "changelog": "🎉 تحديث v1.3.0: دمج الكلمات الجديدة تلقائياً وإضافة if",
   "release_date": "2026-08-29"
 }
